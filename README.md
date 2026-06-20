@@ -30,11 +30,30 @@ Whether you're here for code, insights, or collaboration—I'm excited to have y
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 </div>
+
+---
+
+## 📋 Projects & Experience
+
+### 🗄️ Large-Scale Database ETL & Backend API
+- **Tech**: .NET, EF Core, Backend API
+- **Description**: Engineered robust ETL pipelines and REST APIs for large-scale database operations
+- **Impact**: Optimized data processing and integration workflows
+
+### 🌐 CMS Application (SvelteKit)
+- **Tech**: SvelteKit, TypeScript, Frontend
+- **Description**: Built a comprehensive content management system serving 300+ active users
+- **Impact**: Streamlined content workflow and user experience
+
+### 📊 Defect Analysis Workplace UI (Blazor)
+- **Tech**: C# Blazor, UI/UX
+- **Description**: Developed interactive workplace dashboard for defect analysis and quality control
+- **Impact**: Enhanced data visualization and operational efficiency
 
 ---
 
